@@ -1,0 +1,7 @@
+target/*
+target/
+.vscode/*
+.vscode/
+.idea/*
+
+**/*~undo-tree~*
